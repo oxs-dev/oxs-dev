@@ -1,4 +1,4 @@
-Hello, my name is Oxs and I am currently embarking on a journey to learn web development. I was interested in web development after taking a web development college course.
+Hello, my name is <STRONG> Oxs </STRONG> and I am currently embarking on a journey to learn web development. I was interested in web development after taking a web development college course.
 
 Here is what I'm currently focusing on:
 

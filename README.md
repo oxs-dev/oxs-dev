@@ -4,8 +4,8 @@ Here is what I'm currently focusing on:
 
  I'm using FreeCodeCamp.com to learn responsive web design, by following the beginner projects.
 
-Focusing on my matery of HTML.
-Focusing on my matery of CSS.
+Focusing on my mastery of HTML.
+Focusing on my mastery of CSS.
 
 After I feel proficient in these, I will begin to learn JavaScript.
 

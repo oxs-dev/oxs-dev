@@ -2,7 +2,7 @@ Hello, my name is Oxs and I am currently embarking on a journey to learn web dev
 
 Here is what I'm currently focusing on:
 
-Currently I'm using FreeCodeCamp.com to learn responsive web design, by following the beginner projects.
+ I'm using FreeCodeCamp.com to learn responsive web design, by following the beginner projects.
 
 Focusing on my matery of HTML.
 Focusing on my matery of CSS.
